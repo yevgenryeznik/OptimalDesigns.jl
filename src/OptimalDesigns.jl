@@ -2,7 +2,7 @@ module OptimalDesigns
 
 using Distributions
 
-import("design-definition.jl")
+include("design-definition.jl")
 
 export Design
 
