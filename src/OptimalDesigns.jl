@@ -1,5 +1,7 @@
 module OptimalDesigns
 
-# Write your package code here.
+import("design-definition.jl")
+
+export Design
 
 end
