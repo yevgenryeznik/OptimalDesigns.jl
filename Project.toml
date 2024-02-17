@@ -3,6 +3,9 @@ uuid = "b572a170-92a8-41b7-91bb-51a78de4bc71"
 authors = ["Yevgen Ryeznik"]
 version = "1.0.0-DEV"
 
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+
 [compat]
 julia = "1"
 
